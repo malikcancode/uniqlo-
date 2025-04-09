@@ -48,7 +48,7 @@ function Capsules() {
           </h3>
 
           <img
-            src="/public/trail/capsule img.jpg"
+            src="/capsule img.jpg"
             alt="Small Capsule Preview"
             className="w-24 h-auto my-4"
             data-scroll
@@ -75,7 +75,7 @@ function Capsules() {
 
         <div className="w-full md:w-1/2 h-full">
           <img
-            src="/public/trail/capsule img.jpg"
+            src="/capsule img.jpg"
             alt="Capsule Main"
             className="w-full h-full object-cover"
             data-scroll
